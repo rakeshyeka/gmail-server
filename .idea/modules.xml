@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CorporaAligner/.idea/CorporaAligner.iml" filepath="$PROJECT_DIR$/../CorporaAligner/.idea/CorporaAligner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RaspPiSync.iml" filepath="$PROJECT_DIR$/.idea/RaspPiSync.iml" />
+    </modules>
+  </component>
+</project>
+
